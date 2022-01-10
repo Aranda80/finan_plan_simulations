@@ -12,15 +12,15 @@ This program provides two financial tools, a financial planner for emergencies a
 
 This application uses python 3.7.11 and the following packages:
 
-* ** requests**
+* requests
 
-* ** json**
+* json
 
-* ** pandas**
+* pandas
 
-* ** alpaca_trade_api**
+* alpaca_trade_api
 
-* ** MCForecastTools**
+* MCForecastTools
 
 ## Instructions
 
